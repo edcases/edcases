@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @edcases
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning java and javascript
-- 💞️ I’m looking to collaborate on for the moment notihing
 - 📫 How to reach me y usualy look at my email evancasesvargas@gmail.com
 
 <!---
